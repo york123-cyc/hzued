@@ -1,8 +1,22 @@
- {
+  {
     "ok": true,
-    "channel": "google_3",
-    "title": "지식의 시선",
-    "home_url": "https://hzued.xyz/app/",
-    "enabled": true,
-    "updated_at": "2026-08-18 15:00:00"
+    "default_channel": "android_default",
+    "channels": {
+      "android_default": {
+        "home_url": "https://hzued.xyz/app/",
+        "enabled": true
+      },
+      "google_1": {
+        "home_url": "https://yteta.xyz/",
+        "enabled": true
+      },
+      "google_2": {
+        "home_url": "https://domain2.com/",
+        "enabled": true
+      },
+      "google_3": {
+        "home_url": "https://domain3.com/",
+        "enabled": true
+      }
+    }
   }
