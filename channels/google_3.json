@@ -6,15 +6,15 @@
         "home_url": "https://hzued.xyz/app/",
         "enabled": true
       },
-      "channel%3Dgoogle_1": {
+      "channel=google_1": {
         "home_url": "https://hzued.xyz/app/",
         "enabled": true
       },
-      "channel%3Dgoogle_2": {
+      "channel=google_2": {
         "home_url": "https://jsjre.xyz/",
         "enabled": true
       },
-      "channel%3Dgoogle_3": {
+      "channel=google_3": {
         "home_url": "https://yeys.top/",
         "enabled": true
       }
